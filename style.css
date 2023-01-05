@@ -1,9 +1,15 @@
 body {
 
-  font-family: sans-serif;
+  font-family: 'Quicksand',sans-serif;
+  font-style: italic;
+  font-weight: 500;
+  
+  
+  
  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
  padding: 20px;   
 }
+
 
 h1, h2, p {
   text-align: center;
@@ -11,7 +17,7 @@ h1, h2, p {
 }
 
 h1,h2 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Quicksand',sans-serif;
 }
 
 h1 {
@@ -35,6 +41,7 @@ img {
   margin-right: auto;
   margin-top: -25px;
 }
+
 
 .established {
     font-style: italic;
@@ -74,6 +81,7 @@ img {
 
 footer {
   font-size: 14px;
+  font-weight: 500;
 }
 
 a {
